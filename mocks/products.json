@@ -1,0 +1,111 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/products"
+  },
+  "response": {
+    "statusCode": 200,
+    "body": [
+      {
+        "id": 1,
+        "name": "Tractor",
+        "type": "Heavy Machinery",
+        "model": "ABC-2000",
+        "year": 2022,
+        "condition": "New",
+        "price": 50000.0,
+        "image_url": "https://images.pexels.com/photos/2933243/pexels-photo-2933243.jpeg?auto=compress&cs=tinysrgb&w=800"
+      },
+      {
+        "id": 2,
+        "name": "Combine Harvester",
+        "type": "Heavy Machinery",
+        "model": "HarvestMaster-5000",
+        "year": 2021,
+        "condition": "New",
+        "price": 80000.0,
+        "image_url": "https://images.pexels.com/photos/10039091/pexels-photo-10039091.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      },
+      {
+        "id": 3,
+        "name": "Plow",
+        "type": "Tillage Equipment",
+        "model": "SoilMaster-300",
+        "year": 2020,
+        "condition": "New",
+        "price": 15000.0,
+        "image_url": "https://images.pexels.com/photos/1719669/pexels-photo-1719669.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      },
+      {
+        "id": 4,
+        "name": "Seeder",
+        "type": "Planting Equipment",
+        "model": "SeedXpress-100",
+        "year": 2023,
+        "condition": "New",
+        "price": 20000.0,
+        "image_url": "https://images.pexels.com/photos/16407472/pexels-photo-16407472/free-photo-of-john-deere-hoe-seed-drill-an-agricultural-planting-machine.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      },
+      {
+        "id": 5,
+        "name": "Sprayer",
+        "type": "Crop Protection",
+        "model": "SprayGuard-500",
+        "year": 2022,
+        "condition": "New",
+        "price": 30000.0,
+        "image_url": "https://images.pexels.com/photos/2889440/pexels-photo-2889440.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      },
+      {
+        "id": 6,
+        "name": "Cultivator",
+        "type": "Tillage Equipment",
+        "model": "CultivatePro-700",
+        "year": 2021,
+        "condition": "New",
+        "price": 18000.0,
+        "image_url": "https://images.pexels.com/photos/13924879/pexels-photo-13924879.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      },
+      {
+        "id": 7,
+        "name": "Hay Baler",
+        "type": "Harvesting Equipment",
+        "model": "BaleMaster-800",
+        "year": 2023,
+        "condition": "New",
+        "price": 25000.0,
+        "image_url": "https://images.pexels.com/photos/12612082/pexels-photo-12612082.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      },
+      {
+        "id": 8,
+        "name": "Mower",
+        "type": "Mowing Equipment",
+        "model": "MowKing-200",
+        "year": 2020,
+        "condition": "New",
+        "price": 12000.0,
+        "image_url": "https://images.pexels.com/photos/12495799/pexels-photo-12495799.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      },
+      {
+        "id": 9,
+        "name": "Manure Spreader",
+        "type": "Miscellaneous",
+        "model": "EcoSpread-400",
+        "year": 2022,
+        "condition": "New",
+        "price": 16000.0,
+        "image_url": "https://images.pexels.com/photos/11702508/pexels-photo-11702508.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      },
+      {
+        "id": 10,
+        "name": "Irrigation System",
+        "type": "Water Management",
+        "model": "AquaFlow-3000",
+        "year": 2021,
+        "condition": "New",
+        "price": 35000.0,
+        "image_url": "https://images.pexels.com/photos/17688082/pexels-photo-17688082/free-photo-of-irrigation-system-on-field.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      }
+    ]
+  }
+}

@@ -1,0 +1,347 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/clients"
+  },
+  "response": {
+    "statusCode": 200,
+    "body": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "amount": 500.25,
+        "phone": "+1 (555) 123-4567",
+        "country": "USA"
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "amount": 750.5,
+        "phone": "+1 (555) 987-6543",
+        "country": "Canada"
+      },
+      {
+        "id": 3,
+        "name": "Bob Johnson",
+        "email": "bob.johnson@example.com",
+        "amount": 1200.75,
+        "phone": "+1 (555) 789-0123",
+        "country": "UK"
+      },
+      {
+        "id": 4,
+        "name": "Alice Williams",
+        "email": "alice.williams@example.com",
+        "amount": 300.0,
+        "phone": "+1 (555) 234-5678",
+        "country": "Australia"
+      },
+      {
+        "id": 5,
+        "name": "Charlie Brown",
+        "email": "charlie.brown@example.com",
+        "amount": 900.9,
+        "phone": "+1 (555) 456-7890",
+        "country": "Germany"
+      },
+      {
+        "id": 6,
+        "name": "Emma Davis",
+        "email": "emma.davis@example.com",
+        "amount": 1100.6,
+        "phone": "+1 (555) 654-3210",
+        "country": "Spain"
+      },
+      {
+        "id": 7,
+        "name": "Liam Taylor",
+        "email": "liam.taylor@example.com",
+        "amount": 650.25,
+        "phone": "+1 (555) 789-0123",
+        "country": "Brazil"
+      },
+      {
+        "id": 8,
+        "name": "Ava Moore",
+        "email": "ava.moore@example.com",
+        "amount": 850.75,
+        "phone": "+1 (555) 210-9876",
+        "country": "Mexico"
+      },
+      {
+        "id": 9,
+        "name": "Noah Wilson",
+        "email": "noah.wilson@example.com",
+        "amount": 950.8,
+        "phone": "+1 (555) 321-0987",
+        "country": "France"
+      },
+      {
+        "id": 10,
+        "name": "Sophia Anderson",
+        "email": "sophia.anderson@example.com",
+        "amount": 400.5,
+        "phone": "+1 (555) 876-5432",
+        "country": "Italy"
+      },
+      {
+        "id": 11,
+        "name": "Mia Thomas",
+        "email": "mia.thomas@example.com",
+        "amount": 1200.0,
+        "phone": "+1 (555) 987-6543",
+        "country": "Japan"
+      },
+      {
+        "id": 12,
+        "name": "Oliver Davis",
+        "email": "oliver.davis@example.com",
+        "amount": 800.25,
+        "phone": "+1 (555) 234-5678",
+        "country": "China"
+      },
+      {
+        "id": 13,
+        "name": "Isabella Brown",
+        "email": "isabella.brown@example.com",
+        "amount": 600.75,
+        "phone": "+1 (555) 456-7890",
+        "country": "India"
+      },
+      {
+        "id": 14,
+        "name": "Lucas Wilson",
+        "email": "lucas.wilson@example.com",
+        "amount": 350.0,
+        "phone": "+1 (555) 678-9012",
+        "country": "Canada"
+      },
+      {
+        "id": 15,
+        "name": "Aria Taylor",
+        "email": "aria.taylor@example.com",
+        "amount": 1100.9,
+        "phone": "+1 (555) 890-1234",
+        "country": "USA"
+      },
+      {
+        "id": 16,
+        "name": "Henry Thomas",
+        "email": "henry.thomas@example.com",
+        "amount": 500.5,
+        "phone": "+1 (555) 123-4567",
+        "country": "UK"
+      },
+      {
+        "id": 17,
+        "name": "Scarlett Moore",
+        "email": "scarlett.moore@example.com",
+        "amount": 750.25,
+        "phone": "+1 (555) 234-5678",
+        "country": "Germany"
+      },
+      {
+        "id": 18,
+        "name": "Wyatt Brown",
+        "email": "wyatt.brown@example.com",
+        "amount": 950.8,
+        "phone": "+1 (555) 345-6789",
+        "country": "Australia"
+      },
+      {
+        "id": 19,
+        "name": "Zoe Davis",
+        "email": "zoe.davis@example.com",
+        "amount": 1200.75,
+        "phone": "+1 (555) 456-7890",
+        "country": "Spain"
+      },
+      {
+        "id": 20,
+        "name": "Leo Taylor",
+        "email": "leo.taylor@example.com",
+        "amount": 300.0,
+        "phone": "+1 (555) 567-8901",
+        "country": "Brazil"
+      },
+      {
+        "id": 21,
+        "name": "Bella Moore",
+        "email": "bella.moore@example.com",
+        "amount": 900.5,
+        "phone": "+1 (555) 678-9012",
+        "country": "Mexico"
+      },
+      {
+        "id": 22,
+        "name": "Jackson Wilson",
+        "email": "jackson.wilson@example.com",
+        "amount": 650.25,
+        "phone": "+1 (555) 789-0123",
+        "country": "France"
+      },
+      {
+        "id": 23,
+        "name": "Avery Anderson",
+        "email": "avery.anderson@example.com",
+        "amount": 850.75,
+        "phone": "+1 (555) 890-1234",
+        "country": "Italy"
+      },
+      {
+        "id": 24,
+        "name": "Emma Thomas",
+        "email": "emma.thomas@example.com",
+        "amount": 400.5,
+        "phone": "+1 (555) 901-2345",
+        "country": "Japan"
+      },
+      {
+        "id": 25,
+        "name": "Sebastian Davis",
+        "email": "sebastian.davis@example.com",
+        "amount": 1100.0,
+        "phone": "+1 (555) 234-5678",
+        "country": "China"
+      },
+      {
+        "id": 26,
+        "name": "Lily Brown",
+        "email": "lily.brown@example.com",
+        "amount": 800.25,
+        "phone": "+1 (555) 345-6789",
+        "country": "India"
+      },
+      {
+        "id": 27,
+        "name": "Grayson Wilson",
+        "email": "grayson.wilson@example.com",
+        "amount": 600.75,
+        "phone": "+1 (555) 456-7890",
+        "country": "Canada"
+      },
+      {
+        "id": 28,
+        "name": "Aurora Taylor",
+        "email": "aurora.taylor@example.com",
+        "amount": 350.0,
+        "phone": "+1 (555) 567-8901",
+        "country": "USA"
+      },
+      {
+        "id": 29,
+        "name": "Leo Moore",
+        "email": "leo.moore@example.com",
+        "amount": 1200.9,
+        "phone": "+1 (555) 678-9012",
+        "country": "UK"
+      },
+      {
+        "id": 30,
+        "name": "Zara Davis",
+        "email": "zara.davis@example.com",
+        "amount": 500.5,
+        "phone": "+1 (555) 789-0123",
+        "country": "Germany"
+      },
+      {
+        "id": 31,
+        "name": "Elijah Brown",
+        "email": "elijah.brown@example.com",
+        "amount": 750.25,
+        "phone": "+1 (555) 890-1234",
+        "country": "Australia"
+      },
+      {
+        "id": 32,
+        "name": "Mila Taylor",
+        "email": "mila.taylor@example.com",
+        "amount": 950.8,
+        "phone": "+1 (555) 901-2345",
+        "country": "Spain"
+      },
+      {
+        "id": 33,
+        "name": "Olivia Anderson",
+        "email": "olivia.anderson@example.com",
+        "amount": 300.0,
+        "phone": "+1 (555) 234-5678",
+        "country": "Brazil"
+      },
+      {
+        "id": 34,
+        "name": "Mason Thomas",
+        "email": "mason.thomas@example.com",
+        "amount": 900.5,
+        "phone": "+1 (555) 345-6789",
+        "country": "Mexico"
+      },
+      {
+        "id": 35,
+        "name": "Luna Davis",
+        "email": "luna.davis@example.com",
+        "amount": 650.25,
+        "phone": "+1 (555) 456-7890",
+        "country": "France"
+      },
+      {
+        "id": 36,
+        "name": "Carter Wilson",
+        "email": "carter.wilson@example.com",
+        "amount": 850.75,
+        "phone": "+1 (555) 567-8901",
+        "country": "Italy"
+      },
+      {
+        "id": 37,
+        "name": "Grace Thomas",
+        "email": "grace.thomas@example.com",
+        "amount": 1100.5,
+        "phone": "+1 (555) 678-9012",
+        "country": "Japan"
+      },
+      {
+        "id": 38,
+        "name": "Owen Brown",
+        "email": "owen.brown@example.com",
+        "amount": 800.25,
+        "phone": "+1 (555) 789-0123",
+        "country": "China"
+      },
+      {
+        "id": 39,
+        "name": "Ella Taylor",
+        "email": "ella.taylor@example.com",
+        "amount": 600.75,
+        "phone": "+1 (555) 890-1234",
+        "country": "India"
+      },
+      {
+        "id": 40,
+        "name": "Jackson Anderson",
+        "email": "jackson.anderson@example.com",
+        "amount": 350.0,
+        "phone": "+1 (555) 901-2345",
+        "country": "Canada"
+      },
+      {
+        "id": 41,
+        "name": "Mila Moore",
+        "email": "mila.moore@example.com",
+        "amount": 1200.0,
+        "phone": "+1 (555) 234-5678",
+        "country": "USA"
+      },
+      {
+        "id": 42,
+        "name": "Leo Wilson",
+        "email": "leo.wilson@example.com",
+        "amount": 500.5,
+        "phone": "+1 (555) 345-6789",
+        "country": "UK"
+      }
+    ]
+  }
+}
